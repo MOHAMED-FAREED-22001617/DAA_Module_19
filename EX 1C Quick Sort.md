@@ -1,5 +1,5 @@
 # EX 1C Quick Sort
-## DATE: 25/02/25
+## DATE: 
 ## AIM:
 To write a python program to implement quick sort using tha last element as pivot on the list of string values.
 
